@@ -1,0 +1,29 @@
+body{
+    background-color: aliceblue;
+}
+
+
+
+.col-lg-6{
+    border: 3px solid greenyellow;
+}
+
+.row .radio{
+    display: flex;
+    justify-content: space-between;
+}
+
+input{
+    border: none;
+    outline: none;
+    background-color: aliceblue;
+    border-bottom: 1px solid black;
+    
+}
+
+button{
+     margin-left: 250px;
+     margin-top: 20px;
+     margin-bottom: 20px;
+
+}
